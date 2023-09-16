@@ -4,65 +4,65 @@ const music = new Audio('audio/1.mp3');
 const songs = [
     {
         id: 1,
-        songName: `On My Way <br> <div class="subtitle">Alan Walker</div>`,
+        songName: `Kesariya <br> <div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/1.jpg"
     },
     {
         id: 2,
-        songName: `Alan Walker-Fade <br> <div class="subtitle">Alan Walker</div>`,
+        songName: `Alan Walker-Fade <br> <div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/2.jpg"
     },
     {
         id: 3,
-        songName: `Cartoon - On & On <br> <div class="subtitle">Denil Levi</div>`,
+        songName: `Cartoon - On & On <br> <div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/3.jpg"
     }, {
         id: 4,
-        songName: ` Warriyo - Mortals <br> <div class="subtitle">Mortals</div>`,
+        songName: ` Warriyo - Mortals <br> <div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/4.jpg",
     }, {
         id: 5,
-        songName: `Ertugrul Gazi <br><div class=" "subtitle">Ertugrul</div>`,
+        songName: `Ertugrul Gazi <br><div class=" "subtitle">Arjit singh</div>`,
         poster: "img/arjit/5.jpg",
     }, {
         id: 6,
-        songName: `Electronic Music <br> <div class="subtitle">Electro</div>`,
+        songName: `Electronic Music <br> <div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/6.jpg",
     }, {
         id: 7,
-        songName: `Agar Tum Sath Ho <br><div class="subtitle">Tamashaa</div>`,
+        songName: `Agar Tum Sath Ho <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/7.jpg",
     }, {
         id: 8,
-        songName: `Suna Hai <br><div class="subtitle" ">Neha Kakker</div>`,
+        songName: `Suna Hai <br><div class="subtitle" ">Arjit singh</div>`,
         poster: "img/arjit/8.jpg",
     }, {
         id: 9,
-        songName: `Dilber <br><div class="subtitle">Satyameva Jayate</div>`,
+        songName: `Dilber <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/9.jpg",
     }, {
         id: 10,
-        songName: `Duniya <br><div class="subtitle">Luka Chuppi</div>`,
+        songName: `Duniya <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/10.jpg",
     }, {
         id: 11,
-        songName: `Lagdi Lahore Di <br><div class="subtitle">street Dancer 3D</div>`,
+        songName: `Lagdi Lahore Di <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/11.jpg",
     }, {
         id: 12,
-        songName: `Putt Jatt Da <br><div class="subtitle">Putt Jatt Da</div>`,
+        songName: `Putt Jatt Da <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/12.jpg",
     }, {
         id: 13,
-        songName: `Baarishein <br><div class="subtitle">Atif Aslam</div>`,
+        songName: `Baarishein <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/13.jpg",
     }, {
         id: 14,
-        songName: `Vaaste <br><div class="subtitle">Dhvani Bhanushali</div>`,
+        songName: `Vaaste <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/14.jpg",
     }, {
         id: 15,
-        songName: `Lut Gaye <br><div class="subtitle">Jubin Nautiyal</div>`,
+        songName: `Lut Gaye <br><div class="subtitle">Arjit singh</div>`,
         poster: "img/arjit/15.jpg",
     },
 ]
@@ -115,7 +115,7 @@ Array.from(document.getElementsByClassName('playListPlay')).forEach((e)=>{
     e.addEventListener('click', (el) => {
         index= el.target.id;
         // console.log(index);
-        music.src = `audio/${index}.mp3`;
+        music.src = `audio/arjit/${index}.mp3`;
         poster_master_play.src = `img/arjit/${index}.jpg`;
         music.play();
         masterPlay.classList.remove('bi-play-fill');

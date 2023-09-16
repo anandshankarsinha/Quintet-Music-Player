@@ -4,7 +4,7 @@ const music = new Audio('audio/1.mp3');
 const songs = [
     {
         id: 1,
-        songName: `On My Way <br> <div class="subtitle">Alan Walker</div>`,
+        songName: `Keshariya <br> <div class="subtitle">Arjit singh</div>`,
         poster: "img/1.jpg"
     },
     {
