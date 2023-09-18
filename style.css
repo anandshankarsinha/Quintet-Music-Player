@@ -818,6 +818,11 @@ header .song_side .popular_artist .item li img {
 }
 
 /* css section complete */
+header .song_side .top_playlist .pop_play{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 15px;
+}
 header .song_side .top_playlist .pop_play li{
     margin-top: 20px;
     list-style-type: none;
