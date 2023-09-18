@@ -828,6 +828,11 @@ header .song_side .top_playlist .pop_play li{
     list-style-type: none;
    
 }
+header .song_side .top_playlist .pop_play li a{
+    text-decoration: none;
+    color: white;
+   
+}
 header .song_side .top_playlist .pop_play li .img_play {
     position: relative;
     width: 100px;
@@ -836,6 +841,7 @@ header .song_side .top_playlist .pop_play li .img_play {
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    flex-wrap: wrap;
 }
 
 header .song_side .top_playlist .pop_play li .img_play img {
