@@ -4,65 +4,65 @@ const music = new Audio('audio/1.mp3');
 const songs = [
     {
         id: 1,
-        songName: `Kesariya <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Kesariya(From "Brahmastra") <br> <div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/1.jpg"
     },
     {
         id: 2,
-        songName: `Alan Walker-Fade <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Deva Deva <br> <div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/2.jpg"
     },
     {
         id: 3,
-        songName: `Cartoon - On & On <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Humari adhuri kahani <br> <div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/3.jpg"
     }, {
         id: 4,
-        songName: ` Warriyo - Mortals <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Ve maahi(From "Keshari") <br> <div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/4.jpg",
     }, {
         id: 5,
-        songName: `Ertugrul Gazi <br><div class=" "subtitle">Arjit singh</div>`,
+        songName: `Saware <br><div class=" "subtitle">Arjit singh</div>`,
         poster: "../img/arjit/5.jpg",
     }, {
         id: 6,
-        songName: `Electronic Music <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Qaafirana (Kedarnath) <br> <div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/6.jpg",
     }, {
         id: 7,
-        songName: `Agar Tum Sath Ho <br><div class="subtitle">Arjit singh</div>`,
+        songName: `NasHe Si Chadh Gayi <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/7.jpg",
     }, {
         id: 8,
-        songName: `Suna Hai <br><div class="subtitle" ">Arjit singh</div>`,
+        songName: `Khairiyat <br><div class="subtitle" ">Arjit singh</div>`,
         poster: "../img/arjit/8.jpg",
     }, {
         id: 9,
-        songName: `Dilber <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Raat bhar <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/9.jpg",
     }, {
         id: 10,
-        songName: `Duniya <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Agar tum sath ho <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/10.jpg",
     }, {
         id: 11,
-        songName: `Lagdi Lahore Di <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Tu soch na sake <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/11.jpg",
     }, {
         id: 12,
-        songName: `Putt Jatt Da <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Desh mere <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/12.jpg",
     }, {
         id: 13,
-        songName: `Baarishein <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Apna bana le <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/13.jpg",
     }, {
         id: 14,
-        songName: `Vaaste <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Kabhi jo badal barse <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/14.jpg",
     }, {
         id: 15,
-        songName: `Lut Gaye <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Tu hai to mujhe <br><div class="subtitle">Arjit singh</div>`,
         poster: "../img/arjit/15.jpg",
     },
 ]
