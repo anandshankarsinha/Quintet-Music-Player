@@ -4,65 +4,65 @@ const music = new Audio('audio/1.mp3');
 const songs = [
     {
         id: 1,
-        songName: `Kesariya(From "Brahmastra") <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Tere Sang Yara (Rustom)<br> <div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/1.jpg"
     },
     {
         id: 2,
-        songName: `Deva Deva <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Dil Meri Na Sune(Genius) <br> <div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/2.jpg"
     },
     {
         id: 3,
-        songName: `Humari adhuri kahani <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Jeene Laga Hoon <br> <div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/3.jpg"
     }, {
         id: 4,
-        songName: `Ve maahi(From "Keshari") <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `O Sathi(Baaghi 2) <br> <div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/4.jpg",
     }, {
         id: 5,
-        songName: `Saware <br><div class=" "subtitle">Arjit singh</div>`,
+        songName: `Pehli Dafa <br><div class=" "subtitle">Atif Aslam</div>`,
         poster: "../img/atif/5.jpg",
     }, {
         id: 6,
-        songName: `Qaafirana (Kedarnath) <br> <div class="subtitle">Arjit singh</div>`,
+        songName: `Main Rang Sharbaton Ka<br> <div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/6.jpg",
     }, {
         id: 7,
-        songName: `NasHe Si Chadh Gayi <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Tu chahiye <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/7.jpg",
     }, {
         id: 8,
-        songName: `Khairiyat <br><div class="subtitle" ">Arjit singh</div>`,
+        songName: `Pehli Nazar Main<br><div class="subtitle" ">Atif Aslam</div>`,
         poster: "../img/atif/8.jpg",
     }, {
         id: 9,
-        songName: `Raat bhar <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Tera Hone Laga Hoon<br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/9.jpg",
     }, {
         id: 10,
-        songName: `Agar tum sath ho <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Dil Diyan Gallan <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/10.jpg",
     }, {
         id: 11,
-        songName: `Tu soch na sake <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Jab Koi Baat <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/11.jpg",
     }, {
         id: 12,
-        songName: `Desh mere <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Tere Liye <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/12.jpg",
     }, {
         id: 13,
-        songName: `Apna bana le <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Aa Raha Hoon Main <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/13.jpg",
     }, {
         id: 14,
-        songName: `Kabhi jo badal barse <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Dekhate Dekhate <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/14.jpg",
     }, {
         id: 15,
-        songName: `Tu hai to mujhe <br><div class="subtitle">Arjit singh</div>`,
+        songName: `Woh Lamhe <br><div class="subtitle">Atif Aslam</div>`,
         poster: "../img/atif/15.jpg",
     },
 ]
